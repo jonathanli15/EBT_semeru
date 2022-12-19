@@ -49,6 +49,7 @@ return name;
 * Returns the value.
 * @return double
 */
+
  public double getValue() {
 return value;
  } /**

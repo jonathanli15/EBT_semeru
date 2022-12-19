@@ -84,3 +84,4 @@
    result = 37 * result + this  . project  Name  . hash  Code  ();
    result = 37 * result + this  . module  Path  . hash  Code  ();
    result = 37 * "
+
